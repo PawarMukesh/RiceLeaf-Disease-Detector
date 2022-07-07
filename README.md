@@ -53,7 +53,7 @@ And fully connected layer are added.
 ### MODEL TESTING:
 In this step we are create a function to test multiple images from test data. 
 
-RESULT:
+
 ![image](https://user-images.githubusercontent.com/101791322/177774011-ba9942b4-ab73-40cf-a3db-8c5db75a64df.png)
 
  
